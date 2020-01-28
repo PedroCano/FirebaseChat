@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="btLogin">login</string>
+    <string name="tvCorreo">Correo:</string>
+    <string name="tvContraseña">Contraseña:</string>
+    <string name="tvTitulo">ANCIENT CHAT BOT</string>
+    <string name="menuHistorial">Record</string>
+    <string name="menuLogout">Logout</string>
+    <string name="menuRegister">Register</string>
+    <string name="tvRegister">NEW USER</string>
+    <string name="btRegister">register</string>
+</resources>
